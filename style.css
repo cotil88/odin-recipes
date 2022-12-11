@@ -1,0 +1,53 @@
+.header {
+    background-color: red;
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.list {
+    color: red;
+    font-size: 22px;
+}
+
+
+
+.guacamole {
+    background-color: green;
+}
+
+
+#font {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.title {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-weight: 900;
+}
+
+.picture {
+    height: 200px;
+    width: auto;
+}
+
+#para {
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.title2 {
+    background-color: black;
+    color: white;
+    font-size: 24px;
+}
+.bread {
+    background-color: brown;
+}
+
+.lasagna {
+    background-color: orange;
+}
+
